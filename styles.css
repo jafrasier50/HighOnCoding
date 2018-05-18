@@ -1,0 +1,12 @@
+.logo {
+  width: auto;
+  height: auto;
+}
+.feature {
+background-color: #fffcc1;
+padding: 5px;
+}
+
+.feature_content {
+  margin: 5px;
+}
